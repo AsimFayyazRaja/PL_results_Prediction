@@ -6,8 +6,10 @@ The application tells chances in percentage for win of home or away team and of 
 Dataset was collected from [here](http://football-data.co.uk/englandm.php) for 2000-2019 season.
 
 ## Usage
+```
 pip3 install numpy scikit-learn pandas matplotlib imblearn
 python3 gui.py
+```
 XGBoost notebook is being executed in python2, all else are in python3.
 
 ## Results
